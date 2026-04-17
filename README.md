@@ -13,7 +13,7 @@ Sou um desenvolvedor apaixonado por criar interfaces intuitivas e responsivas. M
 - **Ecossistema React:** Construção de SPAs (Single Page Applications) utilizando **React.js**, focando em componentização e gerenciamento de estado.
 - **Integração de APIs:** Consumo de dados via RESTful APIs e manipulação de respostas estruturadas (JSON), entendendo profundamente o fluxo de rede (TCP/IP, HTTP/HTTPS).
 - **Visão de Arquitetura & Segurança:** Aplicação de boas práticas no design de componentes e cuidado com a segurança do lado do cliente (mitigação de vulnerabilidades e tratamento de dados sensíveis na interface).
-- **Inteligência Analítica e Dados:** Conhecimento sólido no ciclo de vida dos dados, desde a coleta via APIs até a organização e extração de insights focados no negócio.
+
 
 ---
 
