@@ -26,14 +26,7 @@ Sou um desenvolvedor apaixonado por criar interfaces intuitivas e responsivas. M
 
 ---
 
-### 📊 Minhas Estatísticas
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafazwx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafazwx&layout=compact&langs_count=5&theme=dark"/>
-</p>
-
----
 
 ### 📫 Como me encontrar e meus Projetos
 
